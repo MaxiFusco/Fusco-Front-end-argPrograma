@@ -1,0 +1,22 @@
+.row{
+    padding: 20px;
+    background-color: black;
+}
+ h4, p{
+    color: white;
+    padding-left: 9%;
+}
+h3{
+    color: white;
+    padding-left: 6%;
+}
+.contenedor{
+    width: auto;
+}
+.parte1, .parte2{
+    display: inline-block;
+    text-align: justify;
+}
+.imgproyecto{
+    box-shadow: 10px 10px 30px silver;
+}
